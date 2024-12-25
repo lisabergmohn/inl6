@@ -1,0 +1,33 @@
+.home-container {
+  height: 150vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.main-title {
+  font-weight: lighter;
+  margin: 40px 0 20px 20px;
+  font-size: 2.5rem;
+  color: white;
+}
+
+.text-container-l p {
+  margin: 0 20px 20px 20px;
+}
+
+.text-container-l h2 {
+  margin: 0px 20px;
+  color: white;
+  font-weight: lighter;
+}
+
+.text-container-r p {
+  margin: 0 20px 20px 20px;
+}
+
+.text-container-r h2,
+h3 {
+  margin: 0px 20px;
+  color: white;
+  font-weight: lighter;
+}

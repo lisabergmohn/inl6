@@ -1,0 +1,22 @@
+nav {
+    background-color: #392AFF;
+    overflow: hidden;
+}
+
+nav a {
+    float: left;
+    color: #EF0F8A;
+    text-align: center;
+    padding: 22px 16px;
+    text-decoration: none;
+    font-weight: bold;
+    letter-spacing: .1rem;
+    font-size: 1rem;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+nav a:hover {
+    color: #39f1ba;
+}
+
